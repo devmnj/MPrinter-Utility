@@ -12,7 +12,10 @@ E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter Ut
 E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter Utility.pdb
 E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\bin\Debug\MPrintter Utility.exe
 E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\bin\Debug\MPrintter Utility.pdb
-E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter Utility.csprojResolveAssemblyReference.cache
 E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter_Utility.Form1.resources
 E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter_Utility.Properties.Resources.resources
 E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter Utility.csproj.GenerateResource.Cache
+E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\bin\Debug\MPrintter Utility.exe.manifest
+E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\bin\Debug\MPrintter Utility.application
+E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter Utility.exe.manifest
+E:\DeveloperM\Projects\MPrinter-Utility\MPrintter Utility\obj\Debug\MPrintter Utility.application

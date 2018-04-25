@@ -22,6 +22,7 @@ namespace MPrintter_Utility
             InitializeComponent();
             PrinterSettings setting = new PrinterSettings();
             listBox1.Items.Clear();
+            
             foreach (string prntr in PrinterSettings.InstalledPrinters)
             {
                 System.Console.WriteLine(prntr);
@@ -36,6 +37,9 @@ namespace MPrintter_Utility
             {
                 button4.Enabled = false;
             }
+
+
+    
         }
 
         private void button1_Click(object sender, EventArgs e)
