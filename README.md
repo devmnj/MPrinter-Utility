@@ -1,5 +1,5 @@
 # MPrinterUtility
-Set default printer in Windows OS. The tool works Even if there were problem with manual default printer option. 
+Set default printer in Windows OS with this application. The tool works Even if there were problem with manual default printer option and will fix the problem. 
 
 # Requirements
 *  Windows 7 or later
